@@ -1,0 +1,19 @@
+﻿  Cell.cpp
+  Interface.cpp
+c:\users\admin\source\repos\kursachtp\kursachtp\interface.cpp(48): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\admin\source\repos\kursachtp\kursachtp\interface.cpp(140): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\admin\source\repos\kursachtp\kursachtp\interface.cpp(141): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\admin\source\repos\kursachtp\kursachtp\interface.cpp(189): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\admin\source\repos\kursachtp\kursachtp\interface.cpp(190): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\admin\source\repos\kursachtp\kursachtp\interface.cpp(249): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\admin\source\repos\kursachtp\kursachtp\interface.cpp(250): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\admin\source\repos\kursachtp\kursachtp\interface.cpp(279): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\admin\source\repos\kursachtp\kursachtp\interface.cpp(280): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\admin\source\repos\kursachtp\kursachtp\interface.cpp(340): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\admin\source\repos\kursachtp\kursachtp\interface.cpp(344): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+c:\users\admin\source\repos\kursachtp\kursachtp\interface.cpp(352): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\admin\source\repos\kursachtp\kursachtp\interface.cpp(509): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\admin\source\repos\kursachtp\kursachtp\interface.cpp(513): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Main.cpp
+  Создание кода...
+  KursachTP.vcxproj -> C:\Users\Admin\source\repos\KursachTP\x64\Debug\KursachTP.exe
